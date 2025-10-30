@@ -15,4 +15,4 @@ I am a Ph.D. candidate at The Graduate Center, City University of New York
 ## News
 
 - **[Aug. 2025]** I presented my paper at ASA Annual Meeting in Chicago.
-- **[July 2025]** I am elected to serve as Student Council Representative of the ASA Asia and Asian America Section. 
+- **[July 2025]** I am elected as Student Representative of the ASA Asia and Asian America Section. 
