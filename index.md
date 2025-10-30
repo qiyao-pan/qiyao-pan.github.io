@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at The Graduate Center, City University of New York
+I am a Ph.D. candidate at The Graduate Center, City University of New York.
 
 ## Research Interests
 
 - **Urban Sociology:** neighborhood reputation, spatial inequality, amenities and services
 - **Immigration:** Asian and Asian American, ethnic enclaves, intergenerational mobility
-- **Methodology:** spatial demography, computational text analysis, quantitative methods
+- **Methods:** spatial analysis, GIS, machine learning, demography
 
 ## News
 
