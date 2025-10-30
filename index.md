@@ -8,7 +8,7 @@ I am a Ph.D. candidate at The Graduate Center, City University of New York.
 
 ## Research Interests
 
-- neighborhood inequality, amenities and services, racialized discourse, Asian studies, spatial demography, machine learning
+neighborhood inequality, amenities and services, racialized discourse, Asian studies, spatial demography, machine learning
 
 ## News
 
