@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at The Graduate Center, City University of New York.
+I am a Ph.D. candidate at The Graduate Center, City University of New York. I am also a Demography Fellow affiliated with the CUNY Institute for Demographic Research.
+
+My research primarily examines neighborhood inequality and racialized discourse through the lens of amenities, city services and media narratives, using spatial and computational methods. I am also working on projects that investigate intra-group diversity of Asian Americans and the impact of anti-Asian discourse. My work has been supported by several grants, including Stone Center Junior Scholarship, Dr. Louise Lennihan Arts and Sciences Grant, Pre-Dissertation Award, Provost’s Digital Innovation Grant, and Doctoral Student Research Grant.
+
+I am currently a teaching assistant for the M.S. in Quantitative Methods in the Social Sciences at the Graduate Center. Previously, I has served as a Graduate Editorial Assistant for *City & Community*.
 
 ## Research Interests
 
