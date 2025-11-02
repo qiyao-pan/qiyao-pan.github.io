@@ -18,4 +18,3 @@ neighborhood inequality, amenities and services, racialized discourse, Asian and
 
 - **[Aug. 2025]** I presented my paper at ASA Annual Meeting in Chicago.
 - **[July 2025]** I am elected as Student Representative of the ASA Asia and Asian America Section.
-- **[Apr. 2025]** I served as a session chair and presented two co-authored posters at PAA Annual Meeting in Washington, DC.
