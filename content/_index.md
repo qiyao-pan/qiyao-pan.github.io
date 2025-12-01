@@ -2,15 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online.
+description: I am a Ph.D. candidate in sociology at the Graduate Center, City University of New York. My research primarily examines neighborhood inequality and racialized discourse using spatial and computational methods.
 image_left: true
 images:
-- img/revoir.jpg
+- img/portfolio.png
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
-text_align_left: false
-title: Hugo Apéro
+subtitle: Ph.D. Candidate in Sociology
+text_align_left: true
+title: Qiyao Pan
 type: home
 ---
 

@@ -1,22 +1,22 @@
 ---
-author: Alison Hill
-categories: null
-date: '2020-12-30'
+title: "An Rmarkdown post"
+subtitle: ""
+excerpt: "testing"
+date: 2025-12-01
+author: "Qiyao Pan"
 draft: false
-excerpt: testing the excerpt field
-images: null
+images:
+series:
+tags:
+categories:
 layout: single
-series: null
-subtitle: ''
-tags: null
-title: An Rmarkdown post
 ---
 
 
 ## Air quality
 
 
-```r
+``` r
 with(airquality, boxplot(Temp ~ Month))
 ```
 
@@ -24,14 +24,14 @@ with(airquality, boxplot(Temp ~ Month))
 
 
 
-```r
+``` r
 with(airquality, plot(Ozone ~ Temp))
 ```
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 
 
-```r
+``` r
 mlev <- levels(with(airquality, as.factor(Month)))
 with(airquality, plot(Ozone ~ Temp, 
                       pch = as.numeric(mlev), 
