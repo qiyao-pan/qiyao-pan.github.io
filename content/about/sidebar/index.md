@@ -12,9 +12,13 @@ show_social_links: true # specify social accounts in site config
 See about/list.html in the layouts folder **
 
 audio_link_label: "How to say my name" # leave blank to exclude
-link_list_label: "INTERESTS" # bookmarks, elsewhere, etc.
+link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: 
+- name: urban sociology
+  url:   
+- name: immigration
   url: 
-- name: 
+- name: spatial analysis
+  url: 
+- name: computational social science
   url: 
