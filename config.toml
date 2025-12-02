@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://qiyao-pan.github.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Qiyao Pan"
@@ -32,7 +32,7 @@ enableEmoji = true
   orgName = "Qiyao Pan"
   orgLocal = "RStudio"
   description = "Hugo Apéro."
-  favicon = "/img/favicon.ico"
+  favicon = "/img/avatar.jpg"
   logo = "/img/avatar.jpg"
   mainSections = ["about", "project", "teaching"]
   navallcaps = true
@@ -42,7 +42,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/esb.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "qpangc"
   
