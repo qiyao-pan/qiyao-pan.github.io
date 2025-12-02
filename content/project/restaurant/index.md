@@ -6,7 +6,7 @@ categories:
 - package
 date: '2025-10-03'
 draft: false
-excerpt: An analysis of Asian vs non-Asian restaurant closings in New York City across the COVID-19 pandemic
+excerpt: An analysis of Asian vs non-Asian restaurant closings across the COVID-19 pandemic
 
 layout: single
 subtitle: Ethnic and Spatial Disparities in New York City’s (Post-)COVID Restaurant Closings

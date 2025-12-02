@@ -1,7 +1,7 @@
 baseURL = ""
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = "Qiyao Pan"
 author = "Qiyao Pan"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Hugo Apéro."
   favicon = "/img/favicon.ico"
   logo = "/img/avatar.jpg"
-  mainSections = ["about", "project", "collection"]
+  mainSections = ["about", "project", "teaching"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

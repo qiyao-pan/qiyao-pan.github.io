@@ -1,7 +1,7 @@
 ---
 title: "An Rmarkdown post"
 subtitle: ""
-excerpt: "testing"
+excerpt: "TBA"
 date: 2025-12-01
 author: "Qiyao Pan"
 draft: false
@@ -13,21 +13,5 @@ layout: single
 ---
 
 
-## Air quality
-
-```{r}
-with(airquality, boxplot(Temp ~ Month))
-```
-
-
-```{r}
-with(airquality, plot(Ozone ~ Temp))
-```
-
-```{r}
-mlev <- levels(with(airquality, as.factor(Month)))
-with(airquality, plot(Ozone ~ Temp, 
-                      pch = as.numeric(mlev), 
-                      col = mlev))
-```
+## How to use Rmarkdown
 
