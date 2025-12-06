@@ -1,9 +1,9 @@
 ---
 author: Qiyao Pan and Juliette Zhu
 categories:
-- Theme Features
+- spatial
+- immigration
 - R
-- package
 date: '2025-12-01'
 draft: false
 excerpt: 
