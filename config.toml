@@ -67,7 +67,7 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "EB Garamond"
+  customtextFontFamily = "Commissioner "
   customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
@@ -138,20 +138,24 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
+    name = "CV"
+    url = "/cv/"
+    weight = 2
+  [[menu.header]]
     name = "Projects"
     title = "Project portfolio"
     url = "/project/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching portfolio"
     url = "/teaching/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 4
+    weight = 5
     
   # Configure footer  
   [[menu.footer]]

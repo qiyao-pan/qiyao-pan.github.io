@@ -20,7 +20,7 @@ sidebar:
   author: Qiyao Pan
   categories_link: true
   description: |
-    A journal of coding, visualization, and mapping.
+    A journal of coding, visualization, and thinking.
     
     Check out the _index.md file in the /blog folder 
     to edit this content. 
