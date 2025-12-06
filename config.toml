@@ -39,7 +39,7 @@ enableEmoji = true
   description = "Hugo Apéro."
   favicon = "/img/avatar.jpg"
   logo = "/img/avatar.jpg"
-  mainSections = ["about", "project", "teaching"]
+  mainSections = ["about"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
