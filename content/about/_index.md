@@ -3,7 +3,7 @@ cascade:
   headless: true
 description: |
   
-headless: true
+headless: false
 show_header: false
 sidebar_left: true
 title: About
