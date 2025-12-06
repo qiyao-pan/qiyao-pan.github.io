@@ -2,7 +2,7 @@
 date: '2025-12-01T13:38:41-06:00'
 description: Message me if you have any questions or just want to say hi!
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: mqarlvdj
 layout: split-right
 name: Contact Form
 show_poweredby_formspree: false
@@ -11,7 +11,6 @@ submit_button_label: Send Message
 title: Contact
 type: form
 url: contact
-formspree_form_id: "mqarlvdj"
 ---
 
 ** Contact page don't contain a body, just the front matter above.
