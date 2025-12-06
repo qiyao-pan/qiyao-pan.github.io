@@ -1,7 +1,8 @@
 ---
 author: Qiyao Pan and Juliette Zhu
 categories:
-- spatial
+- urban
+- amenities
 - immigration
 - R
 date: '2025-12-01'
