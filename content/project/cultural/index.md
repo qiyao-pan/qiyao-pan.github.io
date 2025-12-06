@@ -11,7 +11,7 @@ excerpt:
 Spatial dimensions of cultural organizations in New York City neighborhoods
 
 featured: true
-layout: single-sidebar
+layout: single
 links:
 - icon: github
   icon_pack: fab
@@ -19,7 +19,7 @@ links:
   url: 
 subtitle: 'Intersection of Race, Immigration and Space: Quantifying Cultural Accessibility for New York City Neighborhoods'
 tags:
-- hugo-site
+- spatial
 title: Cultural Accessibility
 ---
 

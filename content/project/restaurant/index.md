@@ -11,7 +11,7 @@ excerpt: An analysis of Asian vs non-Asian restaurant closings during and after 
 layout: single
 subtitle: Ethnic and Spatial Disparities in New York City’s (Post-)COVID Restaurant Closings
 tags:
-- hugo-site
+- spatial
 title: Vanishing Restaurants
 ---
 
