@@ -25,6 +25,6 @@ and analysis
 4) Accurately interpret statistical results
 
 ### References
-- Healey, Joseph. *Statistics: A Tool for Social Research*, 9th ed. [Online free download](https://usosapps.uw.edu.pl/apps/f/qhWg5XwV/StatisticsAToolforSocialResearch9thed.JosephF.Healey.pdf)
-- Lane, David M., et al. 2015. *Introduction to Statistics*. This book is free [online](https://onlinestatbook.com/).
-- [Crash Course Statistics](https://youtu.be/sxQaBpKfDRk?si=jgmKzdp3QpCwEVzq) videos on YouTube are very helpful for beginners.
+- Healey, Joseph. *Statistics: A Tool for Social Research*, 9th ed. [Online download](https://usosapps.uw.edu.pl/apps/f/qhWg5XwV/StatisticsAToolforSocialResearch9thed.JosephF.Healey.pdf)
+- Lane, David M., et al. 2015. *Introduction to Statistics*. Available [online](https://onlinestatbook.com/)
+- [Crash Course Statistics](https://youtu.be/sxQaBpKfDRk?si=jgmKzdp3QpCwEVzq) videos on YouTube are helpful for beginners.
