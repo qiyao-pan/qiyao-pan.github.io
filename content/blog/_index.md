@@ -3,7 +3,7 @@ author: Qiyao Pan
 cascade:
   author: Qiyao Pan
   show_author_byline: false
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
