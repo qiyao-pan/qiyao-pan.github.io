@@ -157,12 +157,12 @@ enableEmoji = true
     url = "/blog/"
     weight = 5
     
-  # Configure footer  
-  [[menu.footer]]
-    name = "Contact me"
-    title = "Contact form"
+  # Configure footer/header
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact me"
     url = "/contact/"
-    weight = 2
+    weight = 6
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
