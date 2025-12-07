@@ -22,6 +22,6 @@ As I searched for more themes, I came across [Quarto](https://quarto.org/), whic
 
 I’d say Quarto offers the most convenient way to build a website, and it’s perfect for creating a course site or project page. However, I am not entirely satisfied with the built-in themes that Quarto offers, , and customizing them can take quite a bit of work. (I'll save that challenge for the future me lol)
 
-Right now I'm setting in to create a blogdown website using the [Hugo Apéro](https://hugo-apero-docs.netlify.app/) theme in RStudio. It may be a bit more of a hassle to customize and add new content compared to Quarto, but the theme’s aesthetics grabbed me instantly. 
+Right now I'm setting in creating a blogdown website using the [Hugo Apéro](https://hugo-apero-docs.netlify.app/) theme in RStudio. It may be a bit more of a hassle to customize and add new content compared to Quarto, but the theme’s aesthetics grabbed me instantly. 
 
-So here it is! I’ll share more updates soon. Stay tuned!
+So here it is! I’ll share more updates soon.
