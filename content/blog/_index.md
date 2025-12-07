@@ -3,14 +3,14 @@ author: Qiyao Pan
 cascade:
   author: Qiyao Pan
   show_author_byline: false
-  show_comments: true
+  show_comments: false
   show_post_date: true
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /blog/
 description: |
-  A journal of coding, visualization, and mapping.
+  A journal of coding and thinking, with notes and tutorials.
 layout: list
 show_author_byline: false
 show_button_links: false
@@ -20,10 +20,8 @@ sidebar:
   author: Qiyao Pan
   categories_link: true
   description: |
-    A journal of coding, visualization, and thinking.
+    A journal of coding and thinking.
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
   series_link: true
   show_sidebar_adunit: true
   tags_link: true
@@ -31,7 +29,7 @@ sidebar:
   text_link_url: /index.xml
   title: A sidebar for search
 thumbnail_left: true
-title: Code & Cadence
+title: Code Canvas
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
