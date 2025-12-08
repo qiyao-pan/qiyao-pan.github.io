@@ -1,6 +1,6 @@
 ---
 date: '2025-12-01T13:38:41-06:00'
-description: Got an idea, a question, or just want to drop a friendly hello? Message me and I'd love to chat!
+description: Got an idea, a question, or just want to say hi? Message me and I'd love to chat!
 draft: false
 formspree_form_id: mqarlvdj
 layout: split-right
