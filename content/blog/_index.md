@@ -16,18 +16,20 @@ show_author_byline: false
 show_button_links: false
 show_post_date: true
 show_post_thumbnail: true
+
+# for list-sidebar layout
 sidebar:
   author: Qiyao Pan
   categories_link: true
   description: |
     A journal of coding and thinking.
     
-  series_link: true
+  series_link: false
   show_sidebar_adunit: true
-  tags_link: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: A sidebar for search
+  tags_link: false
+  text_link_label: 
+  text_link_url: /blog/
+  title: Code Canvas
 thumbnail_left: true
 title: Code Canvas
 ---
