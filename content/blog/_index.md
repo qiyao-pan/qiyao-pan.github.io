@@ -29,9 +29,9 @@ sidebar:
   tags_link: false
   text_link_label: 
   text_link_url: /blog/
-  title: Code Canvas
+  title: Blog
 thumbnail_left: true
-title: Code Canvas
+title: Blog
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**

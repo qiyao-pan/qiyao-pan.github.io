@@ -11,7 +11,7 @@ cascade:
     text_link_label: View teaching experience
     text_link_url: /talk/
 description: |
-  A list of courses that I've taught so far.
+  
 layout: list
 show_author_byline: false
 show_button_links: true
