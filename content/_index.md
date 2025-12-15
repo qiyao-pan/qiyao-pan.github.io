@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Ph.D. candidate in sociology at the Graduate Center, City University of New York. My research primarily examines neighborhood inequality and racialized discourse using quantitative, spatial and computational methods.
+description: I am a Ph.D. candidate in sociology at CUNY Graduate Center, studying neighborhood inequality and racialized discourse using quantitative, spatial and computational approaches.
 image_left: true
 images:
 - img/portfolio.png
