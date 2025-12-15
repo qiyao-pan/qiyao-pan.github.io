@@ -21,6 +21,7 @@ show_post_time: false
 sidebar:
   author: Qiyao Pan
   description: |
+    Courses I've taught.
     
     Check out the _index.md file in the /talk folder 
     to edit this content. 
