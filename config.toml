@@ -90,6 +90,11 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "file" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.dropbox.com/scl/fi/pfaad33ydhywb9080lcl3/QP-curriculum-vitae.pdf?rlkey=yw086rnwn8yetlv8cn9i5xr2p&dl=0"
+
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/qiyao-pan"
@@ -102,9 +107,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/qpangc"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/qyurrryus"
+      url       = "https://www.linkedin.com/in/qiyao-pan"
 
 [taxonomies]
   category = "categories"
