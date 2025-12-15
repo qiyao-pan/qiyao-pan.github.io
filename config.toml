@@ -89,10 +89,6 @@ enableEmoji = true
   # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
-  [[params.social]]
-      icon      = "file" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.dropbox.com/scl/fi/pfaad33ydhywb9080lcl3/QP-curriculum-vitae.pdf?rlkey=yw086rnwn8yetlv8cn9i5xr2p&dl=0"
 
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
