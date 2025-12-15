@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I am a Ph.D. candidate in sociology at CUNY Graduate Center and a Demography Fellow affiliated with CUNY Institute for Demographic Research.
+  I am a Ph.D. candidate in sociology at CUNY Graduate Center and a fellow affiliated with CUNY Institute for Demographic Research.
 
   My research primarily examines neighborhood inequality and racialized discourse using spatial and computational methods. I am also working on projects that investigate intra-group diversity of Asian Americans and intergenerational mobility among immigrants in the US. My work has been supported by several grants at the Graduate Center, including Stone Center Junior Scholarship and Provost’s Digital Innovation Grant.
 
