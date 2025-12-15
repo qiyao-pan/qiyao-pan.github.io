@@ -10,7 +10,7 @@ cascade:
     text_link_label: View recent posts
     text_link_url: /blog/
 description: |
-  A journal of coding and thinking, with notes and tutorials.
+  
 layout: list
 show_author_byline: false
 show_button_links: false
