@@ -37,8 +37,8 @@ enableEmoji = true
   orgName = "Qiyao Pan"
   orgLocal = "New York, NY"
   description = "RStudio"
-  favicon = "/img/avatar.jpg"
-  logo = "/img/avatar.jpg"
+  favicon = "/img/avatar.png"
+  logo = "/img/avatar.png"
   mainSections = ["about"]
   navallcaps = true
   # show/hide social icons in site header & footer
