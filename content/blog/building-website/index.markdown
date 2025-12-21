@@ -16,7 +16,7 @@ Over the past few days, I've been experimenting with different ways of building 
 
 The most common choice is [Jekyll](https://jekyllrb.com/), since it's the framework Github uses to  host sites right from GitHub repositories. One big perk is the large user community, with plenty of detailed guides for popular themes like [al-folio](https://github.com/alshedivat/al-folio). The al-folio theme covers nearly everything I need for an academic website, (and maybe one day I'll use al-folio too) but I’m just curious to explore what else is out there.
 
-[Hugo](https://gohugo.io/) is another widely used framework with an equally large selections of themes. I’ve noticed a few scholars using Hugo, and the aesthetics are great. Hugo can also be deployed on Github, but it takes [a few extra steps](https://gohugo.io/host-and-deploy/host-on-github-pages/) or it can be launched on other free static site hosts like Netlify. 
+[Hugo](https://gohugo.io/) is another widely used framework with an equally large selections of themes. I’ve noticed a few scholars using Hugo, and the aesthetics are great. Hugo can also be deployed on Github, and it only takes [a few extra steps](https://gohugo.io/host-and-deploy/host-on-github-pages/) to be hosted on Github, or it can be launched on other free static site hosts like Netlify. 
 
 As I searched for more themes, I came across [Quarto](https://quarto.org/), which turns out to be perhaps the most flexible option out there. Even more exciting, I found a Quarto Academic Website Template developed by a CUNY professor affiliated with the same center as I am! For people interested in migrating their websites to Quarto, there are a few examples out there. 
 
@@ -24,4 +24,4 @@ I’d say Quarto offers the most convenient way to build a website, and it’s p
 
 Right now I'm setting in creating a blogdown website using the [Hugo Apéro](https://hugo-apero-docs.netlify.app/) theme in RStudio. It may be a bit more of a hassle to customize and add new content compared to Quarto, but the theme’s aesthetics grabbed me instantly. 
 
-So here it is! I’ll share more updates soon.
+So here it is! Welcome to my brand-new website (which you are checking out right now)!
