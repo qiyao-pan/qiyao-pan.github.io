@@ -11,6 +11,8 @@ subtitle:
 title: Social Statistics
 ---
 
+SOC24100 Social Statistics is a required course for undergraduate students in sociology major at Hunter College. I taught the course in fall 2021.
+
 ### Course Description
 Statistics are all around you every day—in advertisements, companies try to lure you by claiming the approval of “4 out of 5 experts” or they tout “success rates.” Newspapers report the findings of social scientists on marriage rates or epidemiologists on the likelihood of disease transmission. Economic decisions at the state and federal level are made on the basis of population statistics, political polls give news pundits talking points, and sports newscasters report the free throw percentages and batting averages of star players.
 
