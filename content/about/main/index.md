@@ -8,7 +8,7 @@ show_intro: true
 intro: |
   I am a Ph.D. candidate in sociology at CUNY Graduate Center and a Demography Fellow at CUNY Institute for Demographic Research.
 
-  Broadly speaking, I study urban inequality, immigration and racialized discourse using quantitative, spatial and computational approaches. My dissertation investigates how neighborhood reputations take shape and how they drive neighborhood change through the lens of amenities, services, and media narratives. I am also engaged in collaborative projects on intra-Asian diversity and intergenerational mobility among immigrants. My work has been supported by several internal grants, including Stone Center Junior Scholarship and Provost’s Digital Innovation Grant.
+  Broadly speaking, I study urban inequality, immigration and racialized discourse using quantitative, spatial and computational methods. My dissertation investigates how neighborhood reputations take shape and how they drive neighborhood change through the lens of amenities, services, and media narratives. I am also engaged in collaborative projects on intra-Asian diversity and intergenerational mobility among immigrants. My work has been supported by several internal grants, including Stone Center Junior Scholarship and Provost’s Digital Innovation Grant.
 
   I am currently a teaching assistant for the M.S. program in Quantitative Methods in the Social Sciences at the Graduate Center. I also serve as student representative for the ASA Section on Asia and Asian America for 2025-2026.
   
