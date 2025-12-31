@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Ph.D. candidate in sociology at CUNY Graduate Center, studying urban inequality, immigration and racialized discourse using quantitative, spatial and computational methods.
+description: I am a Ph.D. candidate in sociology at CUNY Graduate Center, studying urban sociology, immigration and computational social science.
 image_left: true
 images:
 - img/portfolio.png
