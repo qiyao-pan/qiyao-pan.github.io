@@ -12,7 +12,7 @@ intro: |
 
   I am currently a teaching assistant for the M.S. program in Quantitative Methods in the Social Sciences at the Graduate Center. I also serve as student representative for the ASA Section on Asia and Asian America for 2025-2026.
   
-  In my spare time, I am a violinist in community orchestras and occasionally in chamber music groups.
+  In my spare time, I am a violinist in community orchestras and occasionally at chamber music events.
   
   
 show_outro: false
