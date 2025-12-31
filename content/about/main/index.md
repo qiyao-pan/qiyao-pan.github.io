@@ -8,9 +8,11 @@ show_intro: true
 intro: |
   I am a Ph.D. candidate in sociology at CUNY Graduate Center and a Demography Fellow at CUNY Institute for Demographic Research.
 
-  My research primarily examines urban inequality, neighborhood services and racialized discourse using spatial and computational methods. I am also working on projects that investigate intra-group diversity of Asian Americans and intergenerational mobility among immigrants. My work has been supported by several grants at the Graduate Center, including Stone Center Junior Scholarship and Provost’s Digital Innovation Grant.
+  My research primarily examines urban inequality, neighborhood services and racialized discourse using spatial and computational methods. I am also working on projects investigating intra-group diversity of Asian Americans and intergenerational mobility among immigrants. My work has been supported by several internal grants, including Stone Center Junior Scholarship and Provost’s Digital Innovation Grant.
 
-  Currently, I am a teaching assistant for the M.S. in Quantitative Methods in the Social Sciences at the Graduate Center. I also serve as student representative of ASA Section on Asia and Asian America for 2025-2026.
+  Currently, I am a teaching assistant for the M.S. program in Quantitative Methods in the Social Sciences at the Graduate Center. I also serve as student representative of ASA Section on Asia and Asian America for 2025-2026.
+  
+  In my spare time, I am a violinist in community orchestras and occasionally participate in chamber music events.
   
   
 show_outro: false
