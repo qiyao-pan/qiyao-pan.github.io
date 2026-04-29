@@ -2,10 +2,9 @@
 author: Qiyao Pan
 categories:
 - urban
-- amenities
+- immigration
 - COVID-19
-- Asian
-- R
+
 date: '2025-12-01'
 draft: false
 excerpt: An analysis of Asian vs non-Asian restaurant closings during and after the COVID-19 pandemic
