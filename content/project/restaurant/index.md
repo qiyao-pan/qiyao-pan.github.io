@@ -20,4 +20,4 @@ How do racialized stigma and co-ethnic concentration shape ethnic restaurant clo
 
 {{< figure src="Asian.png" alt="plot" caption="Spatial distribution of Asian restaurant closings" >}}
 
-{{< figure src="risk.png" alt="plot" caption="Predicted probability of restaurant closure risk" >}}
+{{< figure src="risk.jpg" alt="plot" caption="Predicted probability of restaurant closure risk" >}}
