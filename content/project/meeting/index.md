@@ -13,7 +13,7 @@ layout: single
 subtitle: How Asians Are Framed in U.S. Local Government Meetings, 2018–2022
 tags:
 - spatial
-title: Proximity, Partisanship, and Anti-Hate
+title: Proximity, Partisanship and Anti-Hate
 ---
 
 Although media discourse on anti-Asian hate during COVID-19 is well documented, local government public meetings remain an underexplored site of institutional response. Using few-shot large language model (LLM) and difference-in-differences design, I analyze Asian-related public meetings in LocalView from 2018 to 2022 (n = 3,099). I ask whether the 2021 Atlanta spa shootings shifted how Asian-related issues were framed, and how those shifts varied by proximity to Georgia and partisanship. Tracing framing across post-event windows, I find that the share of anti-hate framing rose acutely within seven days. Moreover, states adjacent to Georgia and Republican states witnessed larger increase in anti-hate framing. However, the spatial and partisan effects did not extend to longer periods. This study contributes to our understanding of how Asian Americans are portrayed in local political discourse and how that discourse shifts in response to racial violence.
