@@ -7,7 +7,7 @@ categories:
 
 date: '2026-09-20'
 draft: false
-excerpt: How the 2021 Atlanta spa shootings affected Asian-related framing in local government public meetings
+excerpt: How the 2021 Atlanta spa shootings affected Asian-related framing in U.S. local government public meetings
 
 layout: single
 subtitle: How Asians Are Framed in U.S. Local Government Meetings, 2018–2022
